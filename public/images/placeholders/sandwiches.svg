@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="sandwiches">
+<rect width="400" height="300" fill="#FFFDF8"/>
+<circle cx="330" cy="50" r="90" fill="#C98A3B" opacity=".15"/>
+<circle cx="50" cy="270" r="110" fill="#3E9B3A" opacity=".12"/>
+<path d="M300 250c30-40 70-50 90-45-5 35-40 70-90 45z" fill="#3E9B3A" opacity=".5"/>
+<circle cx="200" cy="140" r="78" fill="#C98A3B" opacity=".22"/>
+<text x="200" y="168" font-size="84" text-anchor="middle">🥪</text>
+<text x="200" y="262" font-family="Fredoka,system-ui,sans-serif" font-size="22" font-weight="600" text-anchor="middle" fill="#1E5B2C">Fruitful Day</text>
+</svg>
