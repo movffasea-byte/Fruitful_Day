@@ -8,8 +8,9 @@ export default function Layout() {
   return (
     <div className="flex min-h-screen flex-col">
       <header className="flex items-center justify-between bg-brand-orange px-4 py-3 text-white">
-        <Link to="/" className="font-heading text-xl font-bold">
-          🍊 Fruitful Day
+        <Link to="/" className="flex items-center gap-2 font-heading text-xl font-bold">
+          <img src="/logo.jpg" alt="" className="h-10 w-10 rounded-full" />
+          Fruitful Day
         </Link>
         <Link to="/menu" className="rounded-full bg-white px-4 py-1.5 text-sm font-semibold text-brand-orange">
           Menu
